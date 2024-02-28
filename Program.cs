@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+Author: Meet Vora
+Date: 2/28/2024
+Comments: This C# Console Application code demonstrates the
+    Selection Sort. 
+    No input is required for the script. It will execute without 
+    input against pre-populated arrays. 
+*/
+
+using System;
 //test
 int[] selection_sort_numbers = {5,72,3,14,7,1};
 Console.WriteLine("Array before Selection Sort: ");
